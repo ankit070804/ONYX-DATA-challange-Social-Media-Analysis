@@ -1,5 +1,5 @@
 Social Media Data Analysis 📱📈
-This repository presents an interactive Power BI (or similar BI tool) report focused on social media data analysis. This report provides deep insights into platform performance, content effectiveness, and audience engagement across various social media channels, enabling data-driven content strategies and optimization.
+This repository presents an interactive Power BI report focused on social media data analysis. This report provides deep insights into platform performance, content effectiveness, and audience engagement across various social media channels, enabling data-driven content strategies and optimization.
 
 Features ✨
 The report is structured into three main sections:
