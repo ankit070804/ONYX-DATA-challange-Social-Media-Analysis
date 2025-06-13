@@ -40,7 +40,7 @@ Engagement Level
 Engagement
 
 Data Sources 📊
-The analysis is built upon social media data, typically exported from various platforms or collected via APIs. The dataset includes detailed information about each post's performance:
+The dataset is provided by Datadna who has hosted this competition. The dataset includes detailed information about each post's performance:
 Post ID: Unique identifier for each post.
 Post Type: Format of the post (e.g., Video, Image, Text).
 Platform: Social media platform where the post was published (e.g., YouTube, TikTok, X.com, Instagram, LinkedIn, Facebook).
